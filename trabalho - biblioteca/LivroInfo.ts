@@ -8,6 +8,7 @@ export class LivroInfo {
         this.titulo = titulo,
         this.autor = autor
     }
-
+ 
+    
 
 }
